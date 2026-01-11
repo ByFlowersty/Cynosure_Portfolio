@@ -1,20 +1,36 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://lh3.googleusercontent.com/pw/AP1GczPwD5QviXhFKk1zhAYDPGiD3lTy-lQkMZVD2AYTBHlp5ig6U3Spfwk0D2fcSjKht55tmWkWfp6ddjdU2z-oxf9tSB_MQ2VOySf1ZRVV-GicU2QVXGJ5m3rkrVDOwfc3A4SEz1uTiUl_vdwaurK7-UKx=w1620-h911-s-no-gm?authuser=0)" />
+# ASISTO
 
-# Run and deploy your AI Studio app
+Aplicación desarrollada con **Vite + React + TypeScript**.  
+Integra Gemini AI para generación de contenido.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1d7hgcD4RACFnuv-rRFxD66VxfHYgbhzb
+## 🚀 Run Locally
 
-## Run Locally
+**Prerequisites:** [Node.js](https://nodejs.org/)
 
-**Prerequisites:**  Node.js
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/TU-USUARIO/Cynosure_Portfolio
+
+2. Instala dependencias:
+
+npm install
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Configura tu API Key de Gemini en un archivo .env.local:
+
+GEMINI_API_KEY=tu_api_key_aqui
+
+
+3. Ejecuta la aplicación:
+
+npm run dev
+
+📦 Tecnologías utilizadas
+
+React
+
+Vite
