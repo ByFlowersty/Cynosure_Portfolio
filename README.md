@@ -1,6 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://lh3.googleusercontent.com/pw/AP1GczPwD5QviXhFKk1zhAYDPGiD3lTy-lQkMZVD2AYTBHlp5ig6U3Spfwk0D2fcSjKht55tmWkWfp6ddjdU2z-oxf9tSB_MQ2VOySf1ZRVV-GicU2QVXGJ5m3rkrVDOwfc3A4SEz1uTiUl_vdwaurK7-UKx=w1620-h911-s-no-gm?authuser=0)" />
+  <img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/pw/AP1GczPwD5QviXhFKk1zhAYDPGiD3lTy-lQkMZVD2AYTBHlp5ig6U3Spfwk0D2fcSjKht55tmWkWfp6ddjdU2z-oxf9tSB_MQ2VOySf1ZRVV-GicU2QVXGJ5m3rkrVDOwfc3A4SEz1uTiUl_vdwaurK7-UKx=w1620-h911-s-no-gm?authuser=0" />
+</div>
+
 # ASISTO
+
 
 Aplicación desarrollada con **Vite + React + TypeScript**.  
 Integra Gemini AI para generación de contenido.
